@@ -1,0 +1,23 @@
+_repo: Baseball-ABC_19169
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2006-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19169'
+  lccn: '2002585163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'English language -- Alphabet -- Juvenile literature'
+- !lcc 'PZ'
+- !lcsh 'Baseball -- Juvenile literature'
+title: Baseball ABC
+url: http://www.gutenberg.org/ebooks/19169
